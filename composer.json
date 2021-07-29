@@ -1,5 +1,5 @@
 {
-  "name": "dawn/omnipay-alipay",
+  "name": "liushoukun/omnipay-alipay",
   "type": "library",
   "description": "Alipay gateway for Omnipay payment processing library",
   "keywords": [
