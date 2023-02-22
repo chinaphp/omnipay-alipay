@@ -1,5 +1,5 @@
 {
-  "name": "liushoukun/omnipay-alipay",
+  "name": "chinaphp/omnipay-alipay",
   "type": "library",
   "description": "Alipay gateway for Omnipay payment processing library",
   "keywords": [
@@ -11,12 +11,12 @@
     "payment",
     "purchase"
   ],
-  "homepage": "https://github.com/liushoukun/omnipay-alipay",
+  "homepage": "https://github.com/chinaphp/omnipay-alipay",
   "license": "MIT",
   "authors": [
     {
-      "name": "shoukun liu",
-      "email": "liushoukun66@gmail.com"
+      "name": "Coffee",
+      "email": "chinaphp.com@gmail.com"
     }
   ],
   "autoload": {
