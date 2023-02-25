@@ -117,6 +117,7 @@ class LegacyNotifyRequest extends AbstractLegacyRequest
     {
         $signer = new Signer($this->params->all());
         $signer->setSort($this->sort);
+        $signer->setIgnores(['sign','sign_type']);
         $content = $signer->getContentToSign();
 
         $sign     = $this->params->get('sign');
